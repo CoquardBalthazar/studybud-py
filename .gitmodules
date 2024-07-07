@@ -1,0 +1,3 @@
+[submodule "bc-studybud_py"]
+	path = bc-studybud_py
+	url = https://github.com/CoquardBalthazar/bc-studybud_py.git
